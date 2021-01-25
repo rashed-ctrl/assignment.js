@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.clr{
+    clear: both;
+}
+/* common css end */
+
+
+
+/* menu part start */
+
+
+
+/* menu part start */
+
+
+
+
+
+/* section one part start */
+.menu_part{
+    height: 60px;
+    background: red;
+}
+
+
+/* section one  part start */
+
+
+
+
+/* menu part start */
+
+
+
+/* menu part start */
